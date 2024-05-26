@@ -1,0 +1,1 @@
+global.scorethisroom = 0;

@@ -1,0 +1,4 @@
+//arg response
+function DialogueResponses(){
+
+}
